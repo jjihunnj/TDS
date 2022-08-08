@@ -347,14 +347,14 @@ color: #FFFFFF;
 }
 .below {
     position: relative;
-    left:200px;
+    left: 300px;
     width: 150px;
     height: 150px;
 }
 .vn {
     position: relative;
     top: 30px;
-    left: 60px;
+    left: 160px;
     text-decoration: none;
     font-size: 20px;
     text-align: center;
@@ -364,14 +364,14 @@ color: #FFFFFF;
 }
 .raza {
     position: relative;
-    left: 300px;
+    left: 400px;
     width: 150px;
     height: 150px;
 }
 .com {
     position: relative;
     top: 30px;
-    left: 180px;
+    left: 280px;
     text-decoration: none;
     font-size: 20px;
     text-align: center;
