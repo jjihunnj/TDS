@@ -1,0 +1,418 @@
+.flexx {
+    width: 100%;
+    height: 200px;
+    background: #1B87C4;
+}
+.logo {
+    position: absolute;
+    width: 600px;
+    height: 100px;
+    left: 130px;
+}
+.pamkin {
+    position: absolute;
+    width: 95px;
+    height: 105px;
+    left: 50px;
+}
+.pamkin2 {
+    position: absolute;
+    width: 95px;
+    height: 105px;
+    left: 730px;
+    top: 0px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.a {
+    position: absolute;
+    width: 700px;
+    height: 44.65px;
+    left: 75.1px;
+    top: 119.38px;
+
+    background: #175793;
+    border-radius: 10px;
+}
+.t {
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    left: 130px;
+
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 40px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #02A4FF;
+}
+.z {
+    position: absolute;
+    left: 400px;
+    width: 60px;
+    height: 25px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 40px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #1AA539;
+}
+.ma {
+    width: 100%;
+    height: 1230px;
+
+    background: #17A3CF;
+}
+.game {
+    width: 800px;
+    height: 150px;
+
+    background: #2888B0;
+    border-radius: 13px;
+}
+.play {
+    position: relative;
+    left: 350px;
+    width: 125px;
+    height: 25px;
+
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+}
+.g {
+    position: absolute;
+    width: 35px;
+    height: 25px;
+    
+}
+.l {
+font-family: 'Bebas Neue';
+font-size: 20px;
+text-align: center;
+color: #FFFFFF;
+}
+.zom {
+    width: 25px;
+    height: 25px;
+    left: 275px;
+    top: 280px;
+}
+.hp {
+    width: 20px;
+    height: 25px;
+    left: 195px;
+    top: 310px;
+}
+.molot {
+    padding-top: 10px;
+    width: 45px;
+    height: 25px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #F4DF23;
+
+}
+.farm {
+
+    width: 265px;
+    height: 160px;
+    left: 20px;
+    top: 390px;
+}
+.sash {
+
+    width: 240px;
+    height: 160px;
+    left: 295px;
+    top: 390px;
+}
+.pyst {
+
+    width: 265px;
+    height: 150px;
+    left: 20px;
+    top: 560px; 
+}
+.toy {
+    position: relative;
+    left: 250px;
+    width: 250px;
+    height: 150px;
+}
+.skin {
+
+    width: 100px;
+    height: 30px;
+    left: 240px;
+    top: 715px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #001AFF;
+
+    border: 1px solid #000000;
+}
+.crates{
+
+    width: 40px;
+    height: 30px;
+    left: 345px;
+    top: 715px;
+}
+.lp { 
+    left: 25px;
+    top: 760px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size:20px;
+}
+.coin {
+
+    width: 15px;
+    height: 15px;
+    left: 452px;
+    top: 787px;
+}
+.robux {
+
+    width: 15px;
+    height: 15px;
+}
+.shard {
+
+    width: 20px;
+    height: 20px;
+    left: 158px;
+    top: 809px;
+}
+.gold {
+
+    width: 35px;
+    height: 25px;
+    left: 145px;
+    top: 903px;
+}
+.basic {
+    width: 85px;
+    height: 80px;
+}
+.dd {
+
+    width: 85px;
+    height: 35px;
+    left: 30px;
+    top: 1060px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.coi {
+
+    width: 15px;
+    height: 15px;
+    left: 45px;
+    top: 1080px;
+}
+.prem {
+
+    width: 85px;
+    height: 80px;
+    left: 155px;
+    top: 975px;
+}
+.fgf {
+
+    width: 85px;
+    height: 35px;
+    left: 155px;
+    top: 1060px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.robu {
+    width: 15px;
+    height: 15px;
+}
+.golden {
+
+    width: 85px;
+    height: 80px;
+    left: 280px;
+    top: 975px;
+}
+.klop {
+
+    width: 85px;
+    height: 35px;
+    left: 280px;
+    top: 1060px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.gol {
+
+    width: 15px;
+    height: 15px;
+    left: 290px;
+    top: 1080px;
+}
+.del {
+
+    width: 85px;
+    height: 80px;
+    left: 405px;
+    top: 975px;
+}
+.poppp {
+
+    width: 85px;
+    height: 35px;
+    left: 405px;
+    top: 1060px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+}
+.robx {
+
+    width: 15px;
+    height: 15px;
+    right: 55px;
+}
+.toyyy {
+    width: 80px;
+    height: 80px;
+
+}
+.sas {
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+}
+.da {
+    width: 80px;
+    height: 35px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+.coinnn {
+    width: 15px;
+    height: 15px;
+}
+.yt {
+    font-size: 26px;
+    text-align: center;
+
+    color: #8E8878;
+}
+.shesteren {
+    width: 25px;
+    height: 25px;
+}
+.below {
+    position: relative;
+    left:200px;
+    width: 150px;
+    height: 150px;
+}
+.vn {
+    position: relative;
+    top: 30px;
+    left: 60px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+
+    color: #FF2E00;
+
+}
+.raza {
+    position: relative;
+    left: 200px;
+    width: 150px;
+    height: 150px;
+}
+.com {
+    position: relative;
+    top: 30px;
+    left: 80px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+
+    color: #FFF615;
+}
+.uy {
+    background: #1454D1;
+}
+.f {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.jjihunnj {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+.rer {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    float: right;
+}
+.ghn {
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+}
+.molt {
+    width: 25px;
+    height: 30px;
+}
