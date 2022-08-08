@@ -5,7 +5,7 @@
 }
 .logo {
     position: relative;
-    width: 744px;
+    width: 1000px;
     height: 156px;
     left: 130px;
 }
@@ -19,13 +19,13 @@
     position: absolute;
     width: 130px;
     height: 156px;
-    left: 860px;
+    left: 1156px;
     top: 0px;
     transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 .a {
     position: absolute;
-    width: 900px;
+    width: 1200px;
     height: 44.65px;
     left: 75.1px;
     top: 170px;
@@ -36,7 +36,7 @@
 .t {
     position: absolute;
     top: 10px;
-    left: 400px;
+    left: 300px;
 
     font-family: Bebas Neue;
     font-style: normal;
@@ -76,7 +76,7 @@
 }
 .play {
     position: relative;
-    left: 350px;
+    left: 500px;
     width: 125px;
     height: 25px;
 
