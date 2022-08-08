@@ -122,6 +122,7 @@ color: #FFFFFF;
     font-size: 50px;
     line-height: 31px;
     text-align: center;
+    padding-left: 350px;
 
     color: #F4DF23;
 
@@ -132,6 +133,7 @@ color: #FFFFFF;
     height: 160px;
     left: 20px;
     top: 390px;
+    border: rgb(255, 255, 0) solid 3px;
 }
 .sash {
 
@@ -139,6 +141,7 @@ color: #FFFFFF;
     height: 160px;
     left: 295px;
     top: 390px;
+    border: rgb(255, 255, 0) solid 3px;
 }
 .pyst {
 
@@ -146,10 +149,12 @@ color: #FFFFFF;
     height: 150px;
     left: 20px;
     top: 560px; 
+    border: rgb(255, 255, 0) solid 3px;
 }
 .toy {
     width: 250px;
     height: 150px;
+    border: rgb(255, 255, 0) solid 3px;
 }
 .skin {
 
@@ -164,6 +169,8 @@ color: #FFFFFF;
     font-size: 50px;
     line-height: 31px;
     text-align: center;
+    margin-top: 50px;
+    padding-left: 350px;
 
     color: #001AFF;
 }
