@@ -1,48 +1,47 @@
 .flexx {
     width: 100%;
-    height: 200px;
+    height: 220px;
     background: #1B87C4;
 }
 .logo {
-    position: absolute;
-    width: 600px;
-    height: 100px;
+    position: relative;
+    width: 100%;
+    height: 156px;
     left: 130px;
 }
 .pamkin {
     position: absolute;
-    width: 95px;
-    height: 105px;
+    width: 130px;
+    height: 156px;
     left: 50px;
 }
 .pamkin2 {
     position: absolute;
-    width: 95px;
-    height: 105px;
-    left: 730px;
+    width: 130px;
+    height: 156px;
+    left: 100%;
     top: 0px;
     transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 .a {
     position: absolute;
-    width: 700px;
+    width: 100%;
     height: 44.65px;
     left: 75.1px;
-    top: 119.38px;
+    top: 170px;
 
     background: #175793;
     border-radius: 10px;
 }
 .t {
     position: absolute;
-    width: 50px;
-    height: 25px;
-    left: 130px;
+    top: 10px;
+    left: 400px;
 
     font-family: Bebas Neue;
     font-style: normal;
     font-weight: 400px;
-    font-size: 40px;
+    font-size: 44px;
     line-height: 24px;
     text-align: center;
 
@@ -50,14 +49,13 @@
 }
 .z {
     position: absolute;
-    left: 400px;
-    width: 60px;
-    height: 25px;
+    top: 10px;
+    left: 800px;
 
     font-family: 'Bebas Neue';
     font-style: normal;
     font-weight: 400px;
-    font-size: 40px;
+    font-size: 44px;
     line-height: 24px;
     text-align: center;
 
@@ -65,12 +63,12 @@
 }
 .ma {
     width: 100%;
-    height: 1230px;
+    height: 1100px;
 
     background: #17A3CF;
 }
 .game {
-    width: 800px;
+    width: 100%;
     height: 150px;
 
     background: #2888B0;
@@ -86,7 +84,7 @@
     font-family: 'Bebas Neue';
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 30px;
     text-align: center;
 }
 .g {
@@ -97,7 +95,7 @@
 }
 .l {
 font-family: 'Bebas Neue';
-font-size: 20px;
+font-size: 30px;
 text-align: center;
 color: #FFFFFF;
 }
@@ -150,8 +148,6 @@ color: #FFFFFF;
     top: 560px; 
 }
 .toy {
-    position: relative;
-    left: 250px;
     width: 250px;
     height: 150px;
 }
@@ -394,7 +390,7 @@ color: #FFFFFF;
 .f {
     text-decoration: none;
     color: #FFFFFF;
-    font-size: 20px;
+    font-size: 30px;
 }
 .jjihunnj {
     width: 30px;
@@ -404,15 +400,15 @@ color: #FFFFFF;
 .rer {
     text-decoration: none;
     color: #FFFFFF;
-    font-size: 20px;
+    font-size: 30px;
     float: right;
 }
 .ghn {
     color: #FFFFFF;
-    font-size: 20px;
+    font-size: 50px;
     text-align: center;
 }
 .molt {
-    width: 25px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
 }
