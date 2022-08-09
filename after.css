@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    line-height: 24px;
+    color: #0066FF;
+}
+h1::after {
+    content: url('https://pbs.twimg.com/profile_images/1402629437082980359/uEkinuyx_400x400.png');  
+    width: 20px;
+    height: 20px;
+}
