@@ -78,11 +78,6 @@ table {
     font-size: 50px;
     text-align: center;
 }
-.s::after {
-    content: url(https://static.wikia.nocookie.net/tower-defense-sim/images/3/39/GoldenMinigunnerIcon.png);
-    width: 50px;
-    height: 50px;
-    display: inline-block;
 }
 td:last-child {
     background-color: rgb(255, 255, 0);
