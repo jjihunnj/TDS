@@ -37,8 +37,8 @@ ul {
     font-size: 30px;
 }
 table {
-    background-color: black;
-    border: white 1px solid;
+    background-color: rgb(0, 0, 0);
+    border: rgb(255, 255, 255) 1px solid;
 }
 td:first-child {
     width: 101px;
@@ -69,6 +69,6 @@ img {
     background-color: rgb(127, 255, 127);
 }
 td {
-    background-color: black;
-    border: white 1px solid;
+    background-color: rgb(0, 0, 0);
+    border: rgb(255, 255, 255) 1px solid;
 }
