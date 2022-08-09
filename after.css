@@ -1,10 +1,89 @@
 h1 {
     text-align: center;
-    line-height: 24px;
-    color: #0066FF;
+    color: #000AFF;
+    font-size: 50px;
 }
-h1::after {
-    content: url('https://pbs.twimg.com/profile_images/1402629437082980359/uEkinuyx_400x400.png');  
-    width: 20px;
-    height: 20px;
+body {
+    background-color: #00C2FF;
+}
+header {
+    background-color: #00A3FF;
+    height: 100px;
+    width: 100%;
+}
+main {
+    height: 460px;
+    width: 100%;
+}
+.k {
+    font-size: 23px;
+    line-height: 18px;
+    text-align: center;
+    color: #4200FF;
+}
+ol {
+    font-size: 25px;
+}
+li:first-child {
+    color: rgb(255, 0, 0);
+}
+li:last-child {
+    color: #CCFF00;
+}
+.a {
+    color: #FFC700;
+}
+.b {
+    color: #EBFF00;
+}
+.c {
+    color: #FFF27D;
+}
+.u {
+    background-color: rgb(255, 0, 0);
+    font-size: 50px;
+    text-align: center;
+}
+td {
+    height: 80px;
+    width: 80px;
+    border: white 1px solid;
+}
+img {
+    height: 80px;
+    width: 80px;
+}
+table {
+    background-color: black;
+    border: white 1px solid;
+    margin-bottom: 100px;
+}
+.q {
+    background-color: #FFC700;
+    font-size: 50px;
+    text-align: center;
+}
+.e  {
+    background-color: #EBFF00;
+    font-size: 50px;
+    text-align: center;
+}
+.j {
+    background-color: #FFF27D;
+    font-size: 50px;
+    text-align: center;
+}
+.n {
+    background-color: #CCFF00;
+    font-size: 50px;
+    text-align: center;
+}
+.s::after {
+    content: url(https://static.wikia.nocookie.net/tower-defense-sim/images/3/39/GoldenMinigunnerIcon.png);
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+td:last-child {
+    background-color: rgb(255, 255, 0);
 }
